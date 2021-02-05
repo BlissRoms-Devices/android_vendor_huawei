@@ -288,6 +288,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/vendor/lib64/lib-rcsjni.so:vendor/lib64/lib-rcsjni.so \
     vendor/huawei/angler/proprietary/vendor/lib64/libril-qc-qmi-1.so:vendor/lib64/libril-qc-qmi-1.so \
     vendor/huawei/angler/proprietary/vendor/lib64/libril-qcril-hook-oem.so:vendor/lib64/libril-qcril-hook-oem.so \
+    vendor/huawei/angler/proprietary/vendor/lib64/librmnetctl.so:vendor/lib64/librmnetctl.so \
     vendor/huawei/angler/proprietary/vendor/lib64/librpmb.so:vendor/lib64/librpmb.so \
     vendor/huawei/angler/proprietary/vendor/lib64/librs_adreno_sha1.so:vendor/lib64/librs_adreno_sha1.so \
     vendor/huawei/angler/proprietary/vendor/lib64/librs_adreno.so:vendor/lib64/librs_adreno.so \
